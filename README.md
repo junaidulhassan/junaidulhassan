@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Junaid Ul Hassan</h1>
 <h3 align="center">A passionate AI Engineer and Data Scientist from Pakistan</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaidulhassan&label=Profile%20views&color=0e75b6&style=flat" alt="junaidulhassan" /> </p>
+
+<img align="right" alt="gif" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" style="margin-bottom: 400px;">
+
 
 - 🌱 I’m currently learning **Langchain,LLMs, Computer Vision, Advance NLP, Data Science and Machine Learning**
 
