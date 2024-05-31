@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Junaid Ul Hassan</h1>
+<h1 align="center">Junaid Ul Hassan</h1>
 <h3 align="center">AI Engineer and Data Scientist</h3>
 
 
