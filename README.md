@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junaid Ul Hassan</h1>
-<h3 align="center">A passionate AI Engineer and Data Scientist</h3>
+<h3 align="center">AI Engineer and Data Scientist</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaidulhassan&label=Profile%20views&color=0e75b6&style=flat" alt="junaidulhassan" /> </p>
