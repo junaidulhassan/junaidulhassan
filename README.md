@@ -5,10 +5,10 @@
 
 <img align="right" alt="GIF" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
-- 🌱 **Currently Learning:** LangChain, Large Language Models (LLMs), Computer Vision, Advanced Natural Language Processing (NLP), Data Science, and Machine Learning.  
-- 💬 **Expertise In:** Data Science and Machine Learning.  
-- 📫 **Contact Me:** Email at junaidulhassan029@gmail.com.  
-- 📄 **Professional Experience:** Available upon request.
+- **Currently Learning:** LangChain, Large Language Models (LLMs), Computer Vision, Advanced Natural Language Processing (NLP), Data Science, and Machine Learning.  
+- **Expertise In:** Data Science and Machine Learning.  
+- **Contact Me:** Email at junaidulhassan029@gmail.com.  
+- **Professional Experience:** Available upon request.
 
 ---
 
