@@ -7,7 +7,7 @@
 
 - **Currently Learning:** LangChain, Large Language Models (LLMs), Computer Vision, Advanced Natural Language Processing (NLP), Data Science, and Machine Learning.  
 - **Expertise In:** Data Science and Machine Learning.  
-- **Contact Me:** Email at junaidulhassan029@gmail.com.  
+- **Contact Me:** Email at junaidulhassan029@gmail.com  
 - **Professional Experience:** Available upon request.
   
 ---
