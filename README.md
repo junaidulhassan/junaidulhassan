@@ -1,7 +1,7 @@
 <h1 align="center">Junaid Ul Hassan</h1>
 <h3 align="center">Machine Learning Engineer & Data Scientist</h3>
 
-<p align="left">Profile views: 0e75b6</p>
+<p align="left">Profile views: 12000</p>
 
 <img align="right" alt="GIF" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
