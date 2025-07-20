@@ -11,7 +11,6 @@
   
 ---
 
-
 <h3 align="left">Connect with Me:</h3>
 <p align="left">You can connect with me on professional and technical platforms to discuss or collaborate on projects related to Data Science and Machine Learning.</p>
 
